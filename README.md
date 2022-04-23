@@ -1,7 +1,7 @@
 ### <h1>Oi galera, eu sou o Adriano Nazario 👋</h1> 
 
 
-- 🔭 Desnvolvedor Fullstack Jr.
+- 🔭 Desenvolvedor Fullstack Jr.
 - 🌱 Atualmente estou realizando em Projetos Própios.
 - 🔥 Realizo Freelances.
 - 🛠 Todo meu portólio esta diponivel aqui.
